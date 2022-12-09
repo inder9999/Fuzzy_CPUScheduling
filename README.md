@@ -63,3 +63,10 @@ The algorithm for these steps is explained below.
 13. If time quantum expires or a high-priority process arrives; go to step 6. 
 
 14. End
+
+### Papers
+1. P. M. Larsen, “Industrial applications of fuzzy logic control,” International Journal of Man-Machine Studies, vol. 12, no. 1, pp. 3–10, 1980.
+
+2. E. H. Mamdani, “Advances in the linguistic synthesis of fuzzy controllers,” International Journal of Man-Machine Studies, vol. 8, no. 6, pp. 669–678, 1976.
+
+3. Y. Tsukamoto, “An approach to fuzzy reasoning method,”, in Advances in Fuzzy Set Theory and Applications, Edited by M. M. Gupta, R. K. Ragade, and R. R. Yager, Amsterdam: North-Holland, 1979.
