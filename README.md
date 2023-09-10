@@ -64,7 +64,7 @@ The algorithm for these steps is explained below.
 
 14. End
 
-### Papers
+### References
 1. P. M. Larsen, “Industrial applications of fuzzy logic control,” International Journal of Man-Machine Studies, vol. 12, no. 1, pp. 3–10, 1980.
 
 2. E. H. Mamdani, “Advances in the linguistic synthesis of fuzzy controllers,” International Journal of Man-Machine Studies, vol. 8, no. 6, pp. 669–678, 1976.
